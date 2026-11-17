@@ -1,0 +1,26 @@
+# Arquivos de sessão e dados operacionais
+.env
+.env.*
+!.env.example
+*.log
+logs/
+reports/
+exports/
+backups/
+*backup*.json
+*journal*.json
+*telemetry*.json
+*returns*.json
+*reviews*.json
+*operacoes*.csv
+*.zip
+*.crx
+*.pem
+*.key
+*credentials*.json
+*secrets*.json
+minuta-autorizacao*.json
+.DS_Store
+Thumbs.db
+node_modules/
+coverage/
